@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="262218e1-7878-4c89-8004-ec2acc1b980d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1juZsu2hWreFCRx5Qm4Xwpmr6V0" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GiteeRoom\SM2_SM3_SM4Encrypt\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SecurityTestAll">
+    <configuration name="SecurityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xjfme.encrypt.test.SecurityTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xjfme.encrypt.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityTestAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xjfme.encrypt.test.SecurityTestAll" />
+      <module name="SM2_SM3_SM4Encrypt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xjfme.encrypt.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SecurityTestAll" />
+      <item itemvalue="Application.SecurityTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SecurityTestAll" />
+        <item itemvalue="Application.SecurityTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="262218e1-7878-4c89-8004-ec2acc1b980d" name="Default Changelist" comment="" />
+      <created>1604656146724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604656146724</updated>
+      <workItem from="1604656149253" duration="312000" />
+      <workItem from="1604734416180" duration="6051000" />
+      <workItem from="1604813025137" duration="1067000" />
+      <workItem from="1604907828044" duration="878000" />
+      <workItem from="1605162904982" duration="12476000" />
+      <workItem from="1605233546124" duration="1285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="76" key="#SecurityTest" timestamp="1605165578884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="76" key="#SecurityTest/0.0.1536.824@0.0.1536.824" timestamp="1605165578884" />
+    <state x="171" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605164573113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="171" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605164573113" />
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605164511328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605164511328" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1604907934271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604907934271" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605187373053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605187373053" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605187373053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605187373053" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605187373053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605187373053" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605187373053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605187373053" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1605165731356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605165731356" />
+    <state x="485" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604656177644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1604656177644" />
+  </component>
+</project>
